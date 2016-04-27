@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'An alien being who can never know anything but space adopts a human. Life changes for both of them, as does the fate of the world.'
-datePublished: '2016-04-27T00:50:33.193Z'
-dateModified: '2016-04-27T00:50:17.345Z'
+datePublished: '2016-04-27T00:58:04.951Z'
+dateModified: '2016-04-27T00:50:47.240Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-09-last-communion.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: last-communion/index.html
 _type: Article
 
