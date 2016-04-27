@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'An alien being who can never know anything but space adopts a human. Life changes for both of them, as does the fate of the world.'
-datePublished: '2016-03-09T04:02:25.330Z'
-dateModified: '2016-03-09T04:01:21.381Z'
-title: Last Communion
+datePublished: '2016-04-27T00:50:33.193Z'
+dateModified: '2016-04-27T00:50:17.345Z'
+title: ''
 author: []
+sourcePath: _posts/2016-03-09-last-communion.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-last-communion.md
-published: true
+starred: true
 url: last-communion/index.html
 _type: Article
 
